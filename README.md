@@ -35,4 +35,4 @@ https://github.com/user-attachments/assets/a08c4da8-f7d9-4e6f-abb6-99d0f4f2a3f4
 <li> Arduino IDE Compatible</li>
 
 Note: I know this bot have a little bit issue of balance because of my 3D printing design! and for this reason my bot facing a little movement issue.
-But you can fix this issue if you are a bug seeker!!!
+But you can fix this little issue if you are a bug seeker!!!
